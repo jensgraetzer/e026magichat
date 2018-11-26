@@ -1,2 +1,2 @@
 # e026MagicHat
-Simple Example using Shake Detection.
+Simple Android project example using shake detection.
